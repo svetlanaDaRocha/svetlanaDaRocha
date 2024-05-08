@@ -1,16 +1,10 @@
-### Hi there 👋
+Hi there, I am **Svetlana**
 
-<!--
-**svetlanaDaRocha/svetlanaDaRocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently studying Web Development
+- 🌱 Learning at the moment about GitHub
+- 👯 I’m currently working on my own start-up, brainstorming phase
+- 📫 How to reach me: via Slack
+  
+#### Projects on GitHub
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on my Web Development
-- 🌱 I’m currently learning about GitHub
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Travel Guide git@github.com:VadimSchebanech/Travel-Guide.git
