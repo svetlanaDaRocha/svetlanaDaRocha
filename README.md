@@ -1,7 +1,7 @@
 Hi there, I am **Svetlana**
 
 - 🔭 I’m currently studying Web Development
-- 🌱 Learning at the moment about CSS features
+- 🌱 Learning at the moment JavaScript
 - 👯 I’m currently working on my own start-up, brainstorming phase
 - 📫 How to reach me: via Slack
   
