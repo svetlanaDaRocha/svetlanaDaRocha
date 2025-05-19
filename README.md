@@ -1,11 +1,13 @@
 Hi there, I am **Svetlana**
 
-- 🔭 I’m currently studying Web Development - Full Stack
-- 🌱 Learning Backend at the moment 
-- 👯 I’m currently working on my own start-up, brainstorming phase
-- 📫 How to reach me: via email: svetlana.darocha@gmail.com, LinkedIn or via Slack
+- 🔭 Recently finished full-time one-year long Web Development course, MERN stack
+- 🌱 Now looking for an Internship or Junior Web Development positions (full-stack)
+- 👯 I’m currently working on my own start-up and learning new technical skills
+- 📫 How to reach me: svetlana.darocha@gmail.com; https://www.linkedin.com/in/svetlana-acimovic-da-rocha/
   
 #### Projects on GitHub
+
+https://storybook-creator.onrender.com/
 
 https://svetlanadarocha.github.io/Snake-Game-and-Memory-Game/
 
